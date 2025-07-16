@@ -41,6 +41,7 @@ In order to use the software, follow these steps:
 
 If there are any issues with the controller, the device or the software please reach out.
 You can do that by either creating an issue in the Issue section of this repository under https://github.com/Gelens-Lab/temperature_controller/issues, or by contacting us directly:
+You can reach this site also by clicking the question mark button in the top left corner of the application.
 
 **Bartosz Prokop**, (bartosz.prokop@kuleuven.be) for questions regarding hardware and software
 
