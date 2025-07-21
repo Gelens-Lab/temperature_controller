@@ -20,7 +20,7 @@ In order to use the software, follow these steps:
 4. Launch the application on your device.
 5. Then follow the steps as descibed on the window from top to bottom:
 	1. Select a port to which the device is connected (usually starting with COM and a number, depends on your setup)
-	2. Then you can optionally configure the device using the software of the temperature controller manufacturer, which you can find and should download here.
+	2. Then you can optionally configure the device using the software of the temperature controller manufacturer, which you can find and should download [here](https://www.meerstetter.ch/products/systems-software-accessories/software/tec-configuration-software?srsltid=AfmBOooxb5jjRMWZPumIRKpw8sMZ5eJLndWk0rA6gqxxQdCfwhyth1EP).
 	3. Choose to define a temperature profile that you want to use:
 		- you can adjust the time window for your experiment by changing the amount of minutes and the pressing 'Adjust time window'
 		- you can create temperature profiles by left clicking on the figure to the right; each click generates a measurement point
@@ -35,7 +35,7 @@ In order to use the software, follow these steps:
 	4. After defining a profile, you can start an experiment by clicking 'Start experiment'; the experiment will run until the end of the selected time window and the automatically stop the device. If you wish to stop before then click on 'Stop TEC' to reset the experiment.
 	5. If the experiment has finished you can leave the program by clicking 'Exit'
 
-6. After finishing, please turn of the device by flipping the switch at the back of the controller box. Next time you can start experiments directrly from point 2.1.
+6. After finishing, please turn of the device by flipping the switch at the back of the controller box. Next time you can start experiments directly from point 2.1.
 
 ## How to get help
 
